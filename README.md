@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫  Available for hire; m@cle.gg
+📫   Available for hire; m@cle.gg
 
 <!--
 **mattclegg/mattclegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
